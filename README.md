@@ -187,27 +187,27 @@ React + Redux Frontend
 
 ## Dashboard
 
-<img src="Dashboard.png" width="1000"/>
-<img src="Dashboard1.png" width="1000"/>
+<img src="https://github.com/chandru010/AI-First-HCP-CRM/blob/main/screenshorts/Dashboard.PNG" width="1000"/>
+<img src="https://github.com/chandru010/AI-First-HCP-CRM/blob/main/screenshorts/Dashboard.PNG" width="1000"/>
 
 ---
 
 ## AI Interaction Logging
 
-<img src="Interaction.png" width="1000"/>
+<img src="https://github.com/chandru010/AI-First-HCP-CRM/blob/main/screenshorts/Interaction.PNG" width="1000"/>
 
 ---
 
 ## LangGraph Tools
 
-<img src="tools.png" width="1000"/>
+<img src="https://github.com/chandru010/AI-First-HCP-CRM/blob/main/screenshorts/tools.PNG" width="1000"/>
 
 ---
 
 ## Swagger API
 
-<img src="swagger.png" width="1000"/>
-<img src="swagger1.png" width="1000"/>
+<img src="https://github.com/chandru010/AI-First-HCP-CRM/blob/main/screenshorts/swagger.PNG" width="1000"/>
+<img src="[swagger1.png](https://github.com/chandru010/AI-First-HCP-CRM/blob/main/screenshorts/swagger1.PNG)" width="1000"/>
 
 
 
