@@ -200,7 +200,7 @@ React + Redux Frontend
 
 ## LangGraph Tools
 
-<img src="screenshots/tools.png" width="1000"/>
+<img src="screenshorts/tools.png" width="1000"/>
 
 ---
 
