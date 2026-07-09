@@ -187,27 +187,27 @@ React + Redux Frontend
 
 ## Dashboard
 
-<img src="screenshorts/Dashboard.png" width="1000"/>
-<img src="screenshorts/Dashboard1.png" width="1000"/>
+<img src="Dashboard.png" width="1000"/>
+<img src="Dashboard1.png" width="1000"/>
 
 ---
 
 ## AI Interaction Logging
 
-<img src="screenshorts/Interaction.png" width="1000"/>
+<img src="Interaction.png" width="1000"/>
 
 ---
 
 ## LangGraph Tools
 
-<img src="screenshorts/tools.png" width="1000"/>
+<img src="tools.png" width="1000"/>
 
 ---
 
 ## Swagger API
 
-<img src="screenshorts/swagger.png" width="1000"/>
-<img src="screenshorts/swagger1.png" width="1000"/>
+<img src="swagger.png" width="1000"/>
+<img src="swagger1.png" width="1000"/>
 
 
 
