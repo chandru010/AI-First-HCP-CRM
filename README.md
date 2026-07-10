@@ -338,8 +338,4 @@ receive user message -> understand intent with LLM -> execute CRM tool -> return
 - `gemma2-9b-it` is the default model in `.env.example` because the assignment asks for it.
 - If the Groq account no longer exposes that model, set `GROQ_MODEL=llama-3.3-70b-versatile`.
 
-## Submission Checklist
 
-- Push this repository to GitHub.
-- Record a 10-15 minute walkthrough covering the frontend, all tools, code structure, and task understanding.
-- Submit the GitHub link and video link in the Google Form supplied in the assignment document.
